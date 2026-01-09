@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\StudentPro\\Student_Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|F:\\Projects\\StudentPro\\Student_Pro\\student_pro\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|f:\\projects\\studentpro\\student_pro\\student_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|F:\\Projects\\StudentPro\\Student_Pro\\student_pro\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|f:\\projects\\studentpro\\student_pro\\student_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|F:\\Projects\\StudentPro\\Student_Pro\\student_pro\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|f:\\projects\\studentpro\\student_pro\\student_pro\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|F:\\Projects\\StudentPro\\Student_Pro\\student_pro\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|F:\\Projects\\StudentPro\\Student_Pro\\student_pro\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|f:\\projects\\studentpro\\student_pro\\student_pro\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|f:\\projects\\studentpro\\student_pro\\student_pro\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF1208C-3ED6-4704-B185-87D2C00853AB}|Student_Pro\\Student_Pro.csproj|solutionrelative:student_pro\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Form1.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\Form1.cs",
+              "ToolTip": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Form1.cs",
+              "RelativeToolTip": "Student_Pro\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:47:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Student.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\Student.cs",
+              "ToolTip": "E:\\StudentPro\\Student_Pro\\Student_Pro\\Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:26:23.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subjects.cs [Design]",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Subjects.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\Subjects.cs",
+              "ToolTip": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Subjects.cs [Design]",
+              "RelativeToolTip": "Student_Pro\\Subjects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:07:56.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Form1.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\Form1.cs",
+              "ToolTip": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Form1.cs [Design]",
+              "RelativeToolTip": "Student_Pro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:02:08.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\MainForm.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\MainForm.cs",
+              "ToolTip": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\MainForm.cs [Design]",
+              "RelativeToolTip": "Student_Pro\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:20:19.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Student.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\Student.cs",
+              "ToolTip": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Student.cs",
+              "RelativeToolTip": "Student_Pro\\Student.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAnwLgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:24:35.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attendance.cs [Design]",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Attendance.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\Attendance.cs",
+              "ToolTip": "E:\\StudentPro\\Student_Pro\\Student_Pro\\Attendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:39:55.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\Dashboard.cs",
+              "ToolTip": "E:\\StudentPro\\Student_Pro\\Student_Pro\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:57:39.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Subjects.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\Subjects.cs",
+              "ToolTip": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Subjects.cs",
+              "RelativeToolTip": "Student_Pro\\Subjects.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAArwHMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:34:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Attendance.cs",
+              "RelativeDocumentMoniker": "Student_Pro\\Attendance.cs",
+              "ToolTip": "F:\\Projects\\StudentPro\\Student_Pro\\Student_Pro\\Attendance.cs",
+              "RelativeToolTip": "Student_Pro\\Attendance.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAjwHYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:06:02.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
